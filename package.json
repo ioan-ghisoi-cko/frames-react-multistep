@@ -12,7 +12,7 @@
     "camaro": "^6.0.1",
     "checkout-sdk-node": "^1.0.12",
     "cors": "^2.8.5",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "johnny-tools-frames-react": "^1.0.11",
     "node-fetch": "^2.6.0",
     "react": "^16.13.1",
